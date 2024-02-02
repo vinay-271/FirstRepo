@@ -2,4 +2,4 @@
 <br>
 #My first repo
 <br>
-#Author - Vinay Kumar
+#Author - Vinay (JSS)
